@@ -1,0 +1,11 @@
+*{
+    color: grey;
+}
+.style_div {
+    padding-top: 10%;
+    font-weight: bold;  
+}
+.style_div h3{
+    font-size: 30px;
+    font-weight: bold;
+}
