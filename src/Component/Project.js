@@ -16,7 +16,7 @@ const Project = () => {
         HTML, CSS, JavaScript, React JS and Redux(basic) for managing applications state. And I prepared Demo screens 
         for the opt-in and opt-out and opt-down from Figma tool and get it approved from the client.
         </p>
-        <h3 style={{"font-weight":"bold"}}>Project- Capgemini 2</h3>
+        <h3 style={{"font-weight":"bold"}}>Project 2- Capgemini</h3>
         <p style={{"font-weight":"bold", "font-size":"16px"}}> 
         This project is about raising funds from the world, here user can create a project like they want to help 
         someone but they don't have enough money to help them so they will create here project and they will give 
@@ -25,7 +25,7 @@ const Project = () => {
         <p>Contribution: I was working as a front-end developer in this project, and I used React JS, JavaScript and 
         HTML, CSS as my tech stack</p>
         </p>
-        <h3 style={{"font-weight":"bold"}}>Project- Capgemini 1</h3>
+        <h3 style={{"font-weight":"bold"}}>Project 1- Capgemini</h3>
         <p style={{"font-weight":"bold", "font-size":"16px"}}> 
         This project is about Job search in world like people can come here and upload their CV's and they will 
         get their job preference and they can apply for particular role and if that company recruiter like their 
